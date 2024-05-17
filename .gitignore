@@ -1,0 +1,10 @@
+# Build ve geçici dosyaları görmezden gel
+obj/
+bin/
+*.log
+*.tmp
+*.bak
+*.swp
+
+
+
